@@ -1,0 +1,22 @@
+# Node.js関連
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Vercel関連
+.vercel
+
+# OS/IDE関連
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Log files
+logs/
+*.log
+
+# Temporary files
+tmp/
+*.tmp
